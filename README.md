@@ -28,7 +28,7 @@ This project is a Flask-based web application that monitors Apache access logs. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gopalvishwakrma/flask-devops-project.git
+   git clone (https://github.com/prasadzagade/access-monitor-dashboard-.git)
    cd flask-devops-project
    ```
 
